@@ -2,7 +2,7 @@
 # #
 # # Пример: - [2, 3, 5, 9, 3] -> на нечётных позициях элементы 3 и 9, ответ: 12
 #
-# add_odd_positions = input()
+# add_odd_positions = input('введите элементы через пробел: ')
 #
 #
 # def sum_of_positions(odd_positions):
